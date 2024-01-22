@@ -32,7 +32,7 @@ https://imgur.com/oOF3LKf
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KeWG62A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the image above I am enabeling Internet Information Services.
