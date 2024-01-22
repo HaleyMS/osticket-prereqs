@@ -8,7 +8,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+https://imgur.com/oOF3LKf
 
 <h2>Environments and Technologies Used</h2>
 
