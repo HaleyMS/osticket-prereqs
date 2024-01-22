@@ -48,10 +48,10 @@ Here I am configuring the PHP managers permissions for osTicket operations.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WNZIAnt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I also set up the database for my osTicket to operate from.
+I went forward with set up a database for my osTicket to operate from.
 </p>
 <br />
 <p>
