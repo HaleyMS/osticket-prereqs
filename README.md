@@ -40,7 +40,7 @@ In the image above I am enabeling Internet Information Services.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WI4sLR2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here I am configuring the PHP managers permissions for osTicket operations.
