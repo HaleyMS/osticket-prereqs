@@ -55,17 +55,17 @@ I went forward with set up a database for my osTicket to operate from.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/s39S5Im.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this image you can see the working portal for agents use.
+In this image you can see the working portal for agents.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/orTlsCI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here you can see a working home portal for clients use.
+Here you can see a working portal for clients.
 </p>
 <br />
 
