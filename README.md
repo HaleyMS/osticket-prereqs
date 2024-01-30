@@ -35,7 +35,7 @@ https://imgur.com/oOF3LKf
 <img src="https://i.imgur.com/KeWG62A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above I am enabeling Internet Information Services.
+In the image above I am enabling Internet Information Services (IIS). To do so I went to programs and turned on the windows features, configured the Application Development Features and the Common HTTP Features. After doing so I tested the connection by typing 127.0.0.1 in a web browser page and was able to load the IIS page. 
 </p>
 <br />
 
@@ -51,7 +51,7 @@ Here I am configuring the PHP managers permissions for osTicket operations.
 <img src="https://i.imgur.com/WNZIAnt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I went forward with set up a database for my osTicket to operate from.
+I went forward with setting up a database for my osTicket to operate from.
 </p>
 <br />
 <p>
